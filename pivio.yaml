@@ -11,7 +11,7 @@ tags:
 - "Pivio:front-end"
 lifecycle: "production"
 links:
-  Version Control: "https://github.com/dominikrose-leanix/appstash-frontend-catalog.git"
+  vcsroot: "https://github.com/dominikrose-leanix/appstash-frontend-catalog.git"
   buildchain: "https://travis-ci.org/dominikrose-leanix/appstash-frontend-catalog/"
 version: "1.0.0"
 relations:
