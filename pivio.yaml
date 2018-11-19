@@ -1,4 +1,3 @@
----
 id: "appstash-frontend-catalog"
 name: "appstash-frontend-catalog"
 type: "service"
@@ -17,7 +16,5 @@ version: "1.0.0"
 relations:
 - relApplicationToBusinessCapability:
   - "Customer Relationship"
-  - "HR"
 - relApplicationToUserGroup:
   - "Australia"
-  - "Brazil"
