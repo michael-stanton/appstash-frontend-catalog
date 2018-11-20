@@ -1,3 +1,3 @@
 live demo - changed
 
-https://app.leanix.net/dordemo/widget/reporting/circlemap/default
+<iframe src="https://app.leanix.net/dordemo/widget/reporting/circlemap/default"></iframe>
