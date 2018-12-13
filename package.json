@@ -9,6 +9,7 @@
   "private": true,
   "license": "UNLICENSED",
   "dependencies": {
-    "d3": "^4.12.3"
+    "d3": "^5.7.0",
+    "license-checker": "^24.0.1"
   }
 }

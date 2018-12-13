@@ -16,5 +16,7 @@ version: "1.0.0"
 relations:
 - relApplicationToBusinessCapability:
   - "Customer Relationship"
+  - "HR"
 - relApplicationToUserGroup:
   - "Australia"
+  - "Brazil"
